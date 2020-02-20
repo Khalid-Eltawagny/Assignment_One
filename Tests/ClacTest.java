@@ -59,7 +59,7 @@ public class ClacTest {
     public void testDivide() {
         System.out.println("divide");
         int x = 7 ;
-        int y = 3 ;
+        int y = 2 ;
         Clac instance = new Clac();
         float expResult = 3.5F;
         float result = instance.divide(x, y);
